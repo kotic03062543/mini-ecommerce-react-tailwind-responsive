@@ -53,3 +53,5 @@ export default tseslint.config({
 })
 ```
 # mini-ecommerce-react-tailwind-responsive
+
+![Screenshot 2568-05-09 at 19 11 56](https://github.com/user-attachments/assets/0ffabac4-68c2-47a2-914d-20b35110c8db)
